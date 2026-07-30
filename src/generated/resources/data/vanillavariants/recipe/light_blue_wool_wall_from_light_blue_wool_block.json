@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "light_blue_wool",
+  "key": {
+    "#": "minecraft:light_blue_wool"
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "vanillavariants:light_blue_wool_wall"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "light_blue_glazed_terracotta",
+  "key": {
+    "#": "minecraft:light_blue_glazed_terracotta"
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "vanillavariants:light_blue_glazed_terracotta_wall"
+  }
+}

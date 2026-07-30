@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "weathered_copper",
+  "key": {
+    "#": "minecraft:weathered_copper"
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "vanillavariants:weathered_copper_stairs"
+  }
+}

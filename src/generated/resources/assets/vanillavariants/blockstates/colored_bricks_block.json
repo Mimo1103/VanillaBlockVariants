@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "vanillavariants:block/colored_bricks_block"
+    }
+  }
+}

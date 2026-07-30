@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "white_wool",
+  "key": {
+    "#": "minecraft:white_wool"
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "vanillavariants:white_wool_wall"
+  }
+}

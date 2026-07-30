@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "diorite_tiles",
+  "key": {
+    "A": "vanillavariants:diorite_tiles_block"
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "result": {
+    "count": 4,
+    "id": "vanillavariants:diorite_tiles_block"
+  }
+}

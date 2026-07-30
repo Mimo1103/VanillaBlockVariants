@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "light_gray_glazed_terracotta",
+  "key": {
+    "#": "minecraft:light_gray_glazed_terracotta"
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "vanillavariants:light_gray_glazed_terracotta_stairs"
+  }
+}

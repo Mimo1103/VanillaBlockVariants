@@ -1,0 +1,20 @@
+{
+  "values": [
+    "vanillavariants:copper_stairs",
+    "vanillavariants:copper_slab",
+    "vanillavariants:exposed_copper_stairs",
+    "vanillavariants:exposed_copper_slab",
+    "vanillavariants:weathered_copper_stairs",
+    "vanillavariants:weathered_copper_slab",
+    "vanillavariants:oxidized_copper_stairs",
+    "vanillavariants:oxidized_copper_slab",
+    "vanillavariants:waxed_copper_stairs",
+    "vanillavariants:waxed_copper_slab",
+    "vanillavariants:waxed_exposed_copper_stairs",
+    "vanillavariants:waxed_exposed_copper_slab",
+    "vanillavariants:waxed_weathered_copper_stairs",
+    "vanillavariants:waxed_weathered_copper_slab",
+    "vanillavariants:waxed_oxidized_copper_stairs",
+    "vanillavariants:waxed_oxidized_copper_slab"
+  ]
+}

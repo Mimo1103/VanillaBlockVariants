@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "andesite_tiles",
+  "key": {
+    "A": "vanillavariants:andesite_tiles_block"
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "result": {
+    "count": 4,
+    "id": "vanillavariants:andesite_tiles_block"
+  }
+}

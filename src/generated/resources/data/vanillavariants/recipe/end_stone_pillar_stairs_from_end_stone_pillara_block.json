@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "end_stone_pillar",
+  "key": {
+    "#": "vanillavariants:end_stone_pillar_block"
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "vanillavariants:end_stone_pillar_stairs"
+  }
+}

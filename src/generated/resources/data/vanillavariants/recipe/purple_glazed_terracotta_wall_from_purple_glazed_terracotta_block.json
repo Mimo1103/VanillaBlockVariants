@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "purple_glazed_terracotta",
+  "key": {
+    "#": "minecraft:purple_glazed_terracotta"
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "vanillavariants:purple_glazed_terracotta_wall"
+  }
+}

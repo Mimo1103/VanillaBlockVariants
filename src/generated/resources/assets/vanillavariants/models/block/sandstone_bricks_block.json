@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "vanillavariants:block/sandstone_bricks_block"
+  }
+}

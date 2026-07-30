@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "vanillavariants:block/dripstone_bricks_block"
+    }
+  }
+}

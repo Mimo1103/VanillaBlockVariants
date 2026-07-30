@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "vanillavariants:block/diorite_tiles_block"
+    }
+  }
+}

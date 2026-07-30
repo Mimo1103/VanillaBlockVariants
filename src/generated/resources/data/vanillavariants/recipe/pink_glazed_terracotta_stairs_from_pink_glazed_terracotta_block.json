@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "pink_glazed_terracotta",
+  "key": {
+    "#": "minecraft:pink_glazed_terracotta"
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "vanillavariants:pink_glazed_terracotta_stairs"
+  }
+}

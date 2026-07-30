@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "andesite_bricks",
+  "key": {
+    "A": "minecraft:andesite"
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "result": {
+    "count": 4,
+    "id": "vanillavariants:andesite_bricks_block"
+  }
+}

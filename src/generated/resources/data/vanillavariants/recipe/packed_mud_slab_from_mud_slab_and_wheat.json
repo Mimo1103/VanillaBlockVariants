@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "packed_mud",
+  "ingredients": [
+    "vanillavariants:mud_slab",
+    "minecraft:wheat"
+  ],
+  "result": {
+    "id": "vanillavariants:packed_mud_slab"
+  }
+}

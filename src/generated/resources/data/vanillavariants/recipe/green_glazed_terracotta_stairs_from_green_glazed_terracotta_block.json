@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "green_glazed_terracotta",
+  "key": {
+    "#": "minecraft:green_glazed_terracotta"
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "vanillavariants:green_glazed_terracotta_stairs"
+  }
+}

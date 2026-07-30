@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "red_sandstone_pillar",
+  "key": {
+    "#": "vanillavariants:red_sandstone_pillar_block"
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "vanillavariants:red_sandstone_pillar_wall"
+  }
+}

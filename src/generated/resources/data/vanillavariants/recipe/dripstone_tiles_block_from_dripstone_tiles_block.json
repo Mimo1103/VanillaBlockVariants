@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "dripstone_tiles",
+  "key": {
+    "A": "vanillavariants:dripstone_tiles_block"
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "result": {
+    "count": 4,
+    "id": "vanillavariants:dripstone_tiles_block"
+  }
+}

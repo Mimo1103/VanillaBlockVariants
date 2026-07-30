@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "vanillavariants:granite_bricks_block",
+  "result": {
+    "id": "vanillavariants:granite_bricks_wall"
+  }
+}

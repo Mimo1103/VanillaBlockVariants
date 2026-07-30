@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "vanillavariants:purpur_bricks_block",
+  "result": {
+    "id": "vanillavariants:purpur_bricks_wall"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "vanillavariants:block/diorite_tiles_slab"
+    },
+    "type=double": {
+      "model": "vanillavariants:block/diorite_tiles_block"
+    },
+    "type=top": {
+      "model": "vanillavariants:block/diorite_tiles_slab_top"
+    }
+  }
+}

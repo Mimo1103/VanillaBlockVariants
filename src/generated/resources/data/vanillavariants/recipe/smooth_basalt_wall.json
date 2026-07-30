@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "experience": 0.1,
+  "ingredient": "vanillavariants:basalt_wall",
+  "result": {
+    "id": "vanillavariants:smooth_basalt_wall"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "magenta_glazed_terracotta",
+  "key": {
+    "#": "minecraft:magenta_glazed_terracotta"
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "vanillavariants:magenta_glazed_terracotta_wall"
+  }
+}

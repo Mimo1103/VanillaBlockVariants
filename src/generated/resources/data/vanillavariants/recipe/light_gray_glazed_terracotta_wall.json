@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "experience": 0.1,
+  "ingredient": "vanillavariants:light_gray_terracotta_wall",
+  "result": {
+    "id": "vanillavariants:light_gray_glazed_terracotta_wall"
+  }
+}

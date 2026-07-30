@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "granite_tiles",
+  "key": {
+    "A": "vanillavariants:granite_tiles_block"
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "result": {
+    "count": 4,
+    "id": "vanillavariants:granite_tiles_block"
+  }
+}

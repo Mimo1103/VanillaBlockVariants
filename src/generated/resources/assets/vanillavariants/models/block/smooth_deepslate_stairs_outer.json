@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "vanillavariants:block/smooth_deepslate_block",
+    "side": "vanillavariants:block/smooth_deepslate_block",
+    "top": "vanillavariants:block/smooth_deepslate_block"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "vanillavariants:block/red_sandstone_pillar_block",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "vanillavariants:block/red_sandstone_pillar_block"
+    },
+    "axis=z": {
+      "model": "vanillavariants:block/red_sandstone_pillar_block",
+      "x": 90
+    }
+  }
+}

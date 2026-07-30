@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "vanillavariants:block/diorite_bricks_block"
+  }
+}

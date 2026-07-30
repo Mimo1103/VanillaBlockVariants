@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "vanillavariants:block/smooth_deepslate_block"
+    }
+  }
+}

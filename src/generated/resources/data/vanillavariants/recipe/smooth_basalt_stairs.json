@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "experience": 0.1,
+  "ingredient": "vanillavariants:basalt_stairs",
+  "result": {
+    "id": "vanillavariants:smooth_basalt_stairs"
+  }
+}

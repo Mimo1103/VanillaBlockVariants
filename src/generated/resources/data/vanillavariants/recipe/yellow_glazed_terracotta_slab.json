@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "experience": 0.1,
+  "ingredient": "vanillavariants:yellow_terracotta_slab",
+  "result": {
+    "id": "vanillavariants:yellow_glazed_terracotta_slab"
+  }
+}

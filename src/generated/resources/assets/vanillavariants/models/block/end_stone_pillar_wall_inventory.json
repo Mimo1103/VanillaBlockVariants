@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "vanillavariants:block/end_stone_pillar_block_side"
+  }
+}

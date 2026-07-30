@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "experience": 0.1,
+  "ingredient": "minecraft:cobbled_deepslate_stairs",
+  "result": {
+    "id": "vanillavariants:deepslate_stairs"
+  }
+}
