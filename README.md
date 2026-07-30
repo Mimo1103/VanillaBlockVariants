@@ -1,5 +1,6 @@
 # Download
-Modrinth: https://modrinth.com/mod/vanilla-block-variants
+Modrinth: https://modrinth.com/mod/vanilla-block-variants 
+
 CurseForge: https://www.curseforge.com/minecraft/mc-mods/vanilla-block-variants
 
 # Introduction
