@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:smooth_sandstone",
   "result": {
-    "id": "vanillavariants:smooth_sandstone_wall"
+    "id": "vanillablockvariants:smooth_sandstone_wall"
   }
 }

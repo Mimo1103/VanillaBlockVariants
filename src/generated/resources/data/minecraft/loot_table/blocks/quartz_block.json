@@ -10,7 +10,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillavariants:quartz_wall"
+          "name": "vanillablockvariants:quartz_wall"
         }
       ],
       "rolls": 1.0

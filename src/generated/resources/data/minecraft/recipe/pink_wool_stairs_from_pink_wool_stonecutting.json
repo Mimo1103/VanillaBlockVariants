@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:pink_wool",
   "result": {
-    "id": "vanillavariants:pink_wool_stairs"
+    "id": "vanillablockvariants:pink_wool_stairs"
   }
 }

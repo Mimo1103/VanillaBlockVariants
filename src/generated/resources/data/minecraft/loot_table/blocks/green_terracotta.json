@@ -9,7 +9,7 @@
             {
               "conditions": [
                 {
-                  "block": "vanillavariants:green_terracotta_slab",
+                  "block": "vanillablockvariants:green_terracotta_slab",
                   "condition": "minecraft:block_state_property",
                   "properties": {
                     "type": "double"
@@ -23,7 +23,7 @@
               "function": "minecraft:explosion_decay"
             }
           ],
-          "name": "vanillavariants:green_terracotta_slab"
+          "name": "vanillablockvariants:green_terracotta_slab"
         }
       ],
       "rolls": 1.0

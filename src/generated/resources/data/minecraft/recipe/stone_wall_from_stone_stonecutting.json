@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:stone",
   "result": {
-    "id": "vanillavariants:stone_wall"
+    "id": "vanillablockvariants:stone_wall"
   }
 }

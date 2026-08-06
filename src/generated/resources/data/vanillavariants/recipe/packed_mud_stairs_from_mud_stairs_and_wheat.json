@@ -3,10 +3,10 @@
   "category": "building",
   "group": "packed_mud",
   "ingredients": [
-    "vanillavariants:mud_stairs",
+    "vanillablockvariants:mud_stairs",
     "minecraft:wheat"
   ],
   "result": {
-    "id": "vanillavariants:packed_mud_stairs"
+    "id": "vanillablockvariants:packed_mud_stairs"
   }
 }

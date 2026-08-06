@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:brown_concrete",
   "result": {
-    "id": "vanillavariants:brown_concrete_wall"
+    "id": "vanillablockvariants:brown_concrete_wall"
   }
 }

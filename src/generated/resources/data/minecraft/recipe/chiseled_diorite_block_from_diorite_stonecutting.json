@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:diorite",
   "result": {
-    "id": "vanillavariants:chiseled_diorite_block"
+    "id": "vanillablockvariants:chiseled_diorite_block"
   }
 }

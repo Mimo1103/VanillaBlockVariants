@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": "vanillavariants:sandstone_pillar_block"
+            "items": "vanillablockvariants:sandstone_pillar_block"
           }
         ]
       },

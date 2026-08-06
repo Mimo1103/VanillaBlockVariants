@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:light_blue_glazed_terracotta",
   "result": {
-    "id": "vanillavariants:light_blue_glazed_terracotta_wall"
+    "id": "vanillablockvariants:light_blue_glazed_terracotta_wall"
   }
 }

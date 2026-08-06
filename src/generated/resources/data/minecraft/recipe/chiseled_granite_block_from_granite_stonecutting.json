@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:granite",
   "result": {
-    "id": "vanillavariants:chiseled_granite_block"
+    "id": "vanillablockvariants:chiseled_granite_block"
   }
 }

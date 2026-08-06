@@ -1,7 +1,7 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": "vanillavariants:polished_end_stone_block",
+  "ingredient": "vanillablockvariants:polished_end_stone_block",
   "result": {
-    "id": "vanillavariants:polished_end_stone_slab"
+    "id": "vanillablockvariants:polished_end_stone_slab"
   }
 }

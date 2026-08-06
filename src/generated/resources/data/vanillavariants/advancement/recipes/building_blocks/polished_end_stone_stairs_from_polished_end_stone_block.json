@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": "vanillavariants:polished_end_stone_block"
+            "items": "vanillablockvariants:polished_end_stone_block"
           }
         ]
       },

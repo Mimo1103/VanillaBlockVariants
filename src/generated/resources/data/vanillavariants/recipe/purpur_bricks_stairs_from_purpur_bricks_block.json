@@ -3,7 +3,7 @@
   "category": "building",
   "group": "purpur_bricks",
   "key": {
-    "#": "vanillavariants:purpur_bricks_block"
+    "#": "vanillablockvariants:purpur_bricks_block"
   },
   "pattern": [
     "#  ",
@@ -12,6 +12,6 @@
   ],
   "result": {
     "count": 4,
-    "id": "vanillavariants:purpur_bricks_stairs"
+    "id": "vanillablockvariants:purpur_bricks_stairs"
   }
 }

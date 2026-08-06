@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:green_glazed_terracotta",
   "result": {
-    "id": "vanillavariants:green_glazed_terracotta_stairs"
+    "id": "vanillablockvariants:green_glazed_terracotta_stairs"
   }
 }

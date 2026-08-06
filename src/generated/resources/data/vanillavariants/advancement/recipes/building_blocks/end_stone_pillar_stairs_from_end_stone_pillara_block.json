@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": "vanillavariants:end_stone_pillar_block"
+            "items": "vanillablockvariants:end_stone_pillar_block"
           }
         ]
       },

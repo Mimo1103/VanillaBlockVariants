@@ -3,7 +3,7 @@
   "category": "building",
   "group": "sandstone_pillar",
   "key": {
-    "#": "vanillavariants:sandstone_pillar_block"
+    "#": "vanillablockvariants:sandstone_pillar_block"
   },
   "pattern": [
     "#  ",
@@ -12,6 +12,6 @@
   ],
   "result": {
     "count": 4,
-    "id": "vanillavariants:sandstone_pillar_stairs"
+    "id": "vanillablockvariants:sandstone_pillar_stairs"
   }
 }

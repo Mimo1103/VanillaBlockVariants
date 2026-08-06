@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:lime_concrete",
   "result": {
-    "id": "vanillavariants:lime_concrete_stairs"
+    "id": "vanillablockvariants:lime_concrete_stairs"
   }
 }

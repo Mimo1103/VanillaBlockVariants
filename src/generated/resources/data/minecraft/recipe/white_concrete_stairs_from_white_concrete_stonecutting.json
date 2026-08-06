@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:white_concrete",
   "result": {
-    "id": "vanillavariants:white_concrete_stairs"
+    "id": "vanillablockvariants:white_concrete_stairs"
   }
 }

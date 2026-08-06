@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:deepslate",
   "result": {
-    "id": "vanillavariants:smooth_deepslate_block"
+    "id": "vanillablockvariants:smooth_deepslate_block"
   }
 }

@@ -1,10 +1,10 @@
 {
   "values": [
-    "vanillavariants:packed_mud_wall",
-    "vanillavariants:packed_mud_stairs",
-    "vanillavariants:packed_mud_slab",
-    "vanillavariants:mud_wall",
-    "vanillavariants:mud_stairs",
-    "vanillavariants:mud_slab"
+    "vanillablockvariants:packed_mud_wall",
+    "vanillablockvariants:packed_mud_stairs",
+    "vanillablockvariants:packed_mud_slab",
+    "vanillablockvariants:mud_wall",
+    "vanillablockvariants:mud_stairs",
+    "vanillablockvariants:mud_slab"
   ]
 }

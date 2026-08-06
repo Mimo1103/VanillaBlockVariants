@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:blue_wool",
   "result": {
-    "id": "vanillavariants:blue_wool_slab"
+    "id": "vanillablockvariants:blue_wool_slab"
   }
 }

@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:white_wool",
   "result": {
-    "id": "vanillavariants:white_wool_wall"
+    "id": "vanillablockvariants:white_wool_wall"
   }
 }

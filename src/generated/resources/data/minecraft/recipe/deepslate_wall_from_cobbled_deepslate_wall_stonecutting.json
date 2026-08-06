@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:cobbled_deepslate_wall",
   "result": {
-    "id": "vanillavariants:deepslate_wall"
+    "id": "vanillablockvariants:deepslate_wall"
   }
 }

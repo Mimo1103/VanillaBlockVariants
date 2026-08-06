@@ -9,7 +9,7 @@
             {
               "conditions": [
                 {
-                  "block": "vanillavariants:mud_slab",
+                  "block": "vanillablockvariants:mud_slab",
                   "condition": "minecraft:block_state_property",
                   "properties": {
                     "type": "double"
@@ -23,7 +23,7 @@
               "function": "minecraft:explosion_decay"
             }
           ],
-          "name": "vanillavariants:mud_slab"
+          "name": "vanillablockvariants:mud_slab"
         }
       ],
       "rolls": 1.0

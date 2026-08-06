@@ -3,7 +3,7 @@
   "category": "building",
   "group": "polished_end_stone",
   "key": {
-    "#": "vanillavariants:polished_end_stone_block"
+    "#": "vanillablockvariants:polished_end_stone_block"
   },
   "pattern": [
     "###",
@@ -11,6 +11,6 @@
   ],
   "result": {
     "count": 6,
-    "id": "vanillavariants:polished_end_stone_wall"
+    "id": "vanillablockvariants:polished_end_stone_wall"
   }
 }

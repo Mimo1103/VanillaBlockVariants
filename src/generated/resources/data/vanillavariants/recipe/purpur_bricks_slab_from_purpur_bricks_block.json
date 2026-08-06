@@ -3,13 +3,13 @@
   "category": "building",
   "group": "purpur_bricks",
   "key": {
-    "#": "vanillavariants:purpur_bricks_block"
+    "#": "vanillablockvariants:purpur_bricks_block"
   },
   "pattern": [
     "###"
   ],
   "result": {
     "count": 6,
-    "id": "vanillavariants:purpur_bricks_slab"
+    "id": "vanillablockvariants:purpur_bricks_slab"
   }
 }

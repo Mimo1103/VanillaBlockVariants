@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:green_wool",
   "result": {
-    "id": "vanillavariants:green_wool_stairs"
+    "id": "vanillablockvariants:green_wool_stairs"
   }
 }

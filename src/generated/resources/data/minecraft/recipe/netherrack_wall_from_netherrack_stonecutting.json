@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:netherrack",
   "result": {
-    "id": "vanillavariants:netherrack_wall"
+    "id": "vanillablockvariants:netherrack_wall"
   }
 }

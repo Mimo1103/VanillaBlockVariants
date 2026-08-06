@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:exposed_copper",
   "result": {
-    "id": "vanillavariants:exposed_copper_stairs"
+    "id": "vanillablockvariants:exposed_copper_stairs"
   }
 }

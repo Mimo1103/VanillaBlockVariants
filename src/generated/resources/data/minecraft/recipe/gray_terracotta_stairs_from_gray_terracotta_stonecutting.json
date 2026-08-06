@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:gray_terracotta",
   "result": {
-    "id": "vanillavariants:gray_terracotta_stairs"
+    "id": "vanillablockvariants:gray_terracotta_stairs"
   }
 }

@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:pink_concrete",
   "result": {
-    "id": "vanillavariants:pink_concrete_wall"
+    "id": "vanillablockvariants:pink_concrete_wall"
   }
 }

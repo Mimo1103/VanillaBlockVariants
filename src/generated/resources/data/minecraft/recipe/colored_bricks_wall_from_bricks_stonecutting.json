@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:bricks",
   "result": {
-    "id": "vanillavariants:colored_bricks_wall"
+    "id": "vanillablockvariants:colored_bricks_wall"
   }
 }

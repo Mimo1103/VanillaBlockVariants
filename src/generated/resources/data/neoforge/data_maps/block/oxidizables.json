@@ -1,22 +1,22 @@
 {
   "values": {
-    "vanillavariants:copper_slab": {
-      "next_oxidation_stage": "vanillavariants:exposed_copper_slab"
+    "vanillablockvariants:copper_slab": {
+      "next_oxidation_stage": "vanillablockvariants:exposed_copper_slab"
     },
-    "vanillavariants:copper_stairs": {
-      "next_oxidation_stage": "vanillavariants:exposed_copper_stairs"
+    "vanillablockvariants:copper_stairs": {
+      "next_oxidation_stage": "vanillablockvariants:exposed_copper_stairs"
     },
-    "vanillavariants:exposed_copper_slab": {
-      "next_oxidation_stage": "vanillavariants:weathered_copper_slab"
+    "vanillablockvariants:exposed_copper_slab": {
+      "next_oxidation_stage": "vanillablockvariants:weathered_copper_slab"
     },
-    "vanillavariants:exposed_copper_stairs": {
-      "next_oxidation_stage": "vanillavariants:weathered_copper_stairs"
+    "vanillablockvariants:exposed_copper_stairs": {
+      "next_oxidation_stage": "vanillablockvariants:weathered_copper_stairs"
     },
-    "vanillavariants:weathered_copper_slab": {
-      "next_oxidation_stage": "vanillavariants:oxidized_copper_slab"
+    "vanillablockvariants:weathered_copper_slab": {
+      "next_oxidation_stage": "vanillablockvariants:oxidized_copper_slab"
     },
-    "vanillavariants:weathered_copper_stairs": {
-      "next_oxidation_stage": "vanillavariants:oxidized_copper_stairs"
+    "vanillablockvariants:weathered_copper_stairs": {
+      "next_oxidation_stage": "vanillablockvariants:oxidized_copper_stairs"
     }
   }
 }

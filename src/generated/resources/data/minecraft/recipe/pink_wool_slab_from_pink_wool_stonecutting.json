@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:pink_wool",
   "result": {
-    "id": "vanillavariants:pink_wool_slab"
+    "id": "vanillablockvariants:pink_wool_slab"
   }
 }

@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:light_gray_wool",
   "result": {
-    "id": "vanillavariants:light_gray_wool_wall"
+    "id": "vanillablockvariants:light_gray_wool_wall"
   }
 }

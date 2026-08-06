@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:polished_basalt",
   "result": {
-    "id": "vanillavariants:polished_basalt_stairs"
+    "id": "vanillablockvariants:polished_basalt_stairs"
   }
 }

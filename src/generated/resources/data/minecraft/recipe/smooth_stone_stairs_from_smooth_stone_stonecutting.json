@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:smooth_stone",
   "result": {
-    "id": "vanillavariants:smooth_stone_stairs"
+    "id": "vanillablockvariants:smooth_stone_stairs"
   }
 }

@@ -9,7 +9,7 @@
             {
               "conditions": [
                 {
-                  "block": "vanillavariants:pink_concrete_slab",
+                  "block": "vanillablockvariants:pink_concrete_slab",
                   "condition": "minecraft:block_state_property",
                   "properties": {
                     "type": "double"
@@ -23,7 +23,7 @@
               "function": "minecraft:explosion_decay"
             }
           ],
-          "name": "vanillavariants:pink_concrete_slab"
+          "name": "vanillablockvariants:pink_concrete_slab"
         }
       ],
       "rolls": 1.0

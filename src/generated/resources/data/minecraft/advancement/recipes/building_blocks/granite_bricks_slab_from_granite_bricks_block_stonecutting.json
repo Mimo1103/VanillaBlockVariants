@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": "vanillavariants:granite_bricks_block"
+            "items": "vanillablockvariants:granite_bricks_block"
           }
         ]
       },

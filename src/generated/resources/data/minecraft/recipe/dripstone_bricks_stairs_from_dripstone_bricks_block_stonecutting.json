@@ -1,7 +1,7 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": "vanillavariants:dripstone_bricks_block",
+  "ingredient": "vanillablockvariants:dripstone_bricks_block",
   "result": {
-    "id": "vanillavariants:dripstone_bricks_stairs"
+    "id": "vanillablockvariants:dripstone_bricks_stairs"
   }
 }

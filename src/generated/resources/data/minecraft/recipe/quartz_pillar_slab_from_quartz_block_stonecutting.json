@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:quartz_block",
   "result": {
-    "id": "vanillavariants:quartz_pillar_slab"
+    "id": "vanillablockvariants:quartz_pillar_slab"
   }
 }

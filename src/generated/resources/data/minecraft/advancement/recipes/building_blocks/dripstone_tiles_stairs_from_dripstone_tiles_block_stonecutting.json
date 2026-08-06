@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": "vanillavariants:dripstone_tiles_block"
+            "items": "vanillablockvariants:dripstone_tiles_block"
           }
         ]
       },

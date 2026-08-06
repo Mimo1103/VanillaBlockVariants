@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "category": "blocks",
-  "experience": 0.1,
-  "ingredient": "vanillavariants:brown_terracotta_stairs",
-  "result": {
-    "id": "vanillavariants:brown_glazed_terracotta_stairs"
-  }
-}

@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:orange_wool",
   "result": {
-    "id": "vanillavariants:orange_wool_slab"
+    "id": "vanillablockvariants:orange_wool_slab"
   }
 }

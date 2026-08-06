@@ -9,7 +9,7 @@
             {
               "conditions": [
                 {
-                  "block": "vanillavariants:diorite_tiles_slab",
+                  "block": "vanillablockvariants:diorite_tiles_slab",
                   "condition": "minecraft:block_state_property",
                   "properties": {
                     "type": "double"
@@ -23,7 +23,7 @@
               "function": "minecraft:explosion_decay"
             }
           ],
-          "name": "vanillavariants:diorite_tiles_slab"
+          "name": "vanillablockvariants:diorite_tiles_slab"
         }
       ],
       "rolls": 1.0

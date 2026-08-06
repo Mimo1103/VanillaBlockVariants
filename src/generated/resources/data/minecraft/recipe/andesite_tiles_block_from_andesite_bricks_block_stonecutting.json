@@ -1,7 +1,7 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": "vanillavariants:andesite_bricks_block",
+  "ingredient": "vanillablockvariants:andesite_bricks_block",
   "result": {
-    "id": "vanillavariants:andesite_tiles_block"
+    "id": "vanillablockvariants:andesite_tiles_block"
   }
 }

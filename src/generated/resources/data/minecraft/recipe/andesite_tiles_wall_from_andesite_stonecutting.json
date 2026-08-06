@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:andesite",
   "result": {
-    "id": "vanillavariants:andesite_tiles_wall"
+    "id": "vanillablockvariants:andesite_tiles_wall"
   }
 }

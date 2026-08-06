@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:purpur_pillar",
   "result": {
-    "id": "vanillavariants:purpur_pillar_slab"
+    "id": "vanillablockvariants:purpur_pillar_slab"
   }
 }

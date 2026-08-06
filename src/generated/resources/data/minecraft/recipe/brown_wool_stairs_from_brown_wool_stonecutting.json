@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:brown_wool",
   "result": {
-    "id": "vanillavariants:brown_wool_stairs"
+    "id": "vanillablockvariants:brown_wool_stairs"
   }
 }

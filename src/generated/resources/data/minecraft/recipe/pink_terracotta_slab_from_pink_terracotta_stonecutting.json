@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:pink_terracotta",
   "result": {
-    "id": "vanillavariants:pink_terracotta_slab"
+    "id": "vanillablockvariants:pink_terracotta_slab"
   }
 }

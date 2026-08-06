@@ -3,13 +3,13 @@
   "category": "building",
   "group": "end_stone_pillar",
   "key": {
-    "#": "vanillavariants:end_stone_pillar_block"
+    "#": "vanillablockvariants:end_stone_pillar_block"
   },
   "pattern": [
     "###"
   ],
   "result": {
     "count": 6,
-    "id": "vanillavariants:end_stone_pillar_slab"
+    "id": "vanillablockvariants:end_stone_pillar_slab"
   }
 }

@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:sandstone",
   "result": {
-    "id": "vanillavariants:sandstone_pillar_block"
+    "id": "vanillablockvariants:sandstone_pillar_block"
   }
 }

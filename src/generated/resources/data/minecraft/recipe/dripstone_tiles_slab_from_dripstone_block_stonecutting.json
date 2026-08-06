@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:dripstone_block",
   "result": {
-    "id": "vanillavariants:dripstone_tiles_slab"
+    "id": "vanillablockvariants:dripstone_tiles_slab"
   }
 }

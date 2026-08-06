@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "category": "blocks",
-  "experience": 0.1,
-  "ingredient": "vanillavariants:magenta_terracotta_wall",
-  "result": {
-    "id": "vanillavariants:magenta_glazed_terracotta_wall"
-  }
-}

@@ -9,7 +9,7 @@
             {
               "conditions": [
                 {
-                  "block": "vanillavariants:magenta_wool_slab",
+                  "block": "vanillablockvariants:magenta_wool_slab",
                   "condition": "minecraft:block_state_property",
                   "properties": {
                     "type": "double"
@@ -23,7 +23,7 @@
               "function": "minecraft:explosion_decay"
             }
           ],
-          "name": "vanillavariants:magenta_wool_slab"
+          "name": "vanillablockvariants:magenta_wool_slab"
         }
       ],
       "rolls": 1.0

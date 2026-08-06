@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": "vanillavariants:clay_slab"
+            "items": "vanillablockvariants:clay_slab"
           }
         ]
       },

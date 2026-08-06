@@ -3,7 +3,7 @@
   "category": "building",
   "group": "granite_tiles",
   "key": {
-    "A": "vanillavariants:granite_tiles_block"
+    "A": "vanillablockvariants:granite_tiles_block"
   },
   "pattern": [
     "AA",
@@ -11,6 +11,6 @@
   ],
   "result": {
     "count": 4,
-    "id": "vanillavariants:granite_tiles_block"
+    "id": "vanillablockvariants:granite_tiles_block"
   }
 }

@@ -9,7 +9,7 @@
             {
               "conditions": [
                 {
-                  "block": "vanillavariants:crying_obsidian_slab",
+                  "block": "vanillablockvariants:crying_obsidian_slab",
                   "condition": "minecraft:block_state_property",
                   "properties": {
                     "type": "double"
@@ -23,7 +23,7 @@
               "function": "minecraft:explosion_decay"
             }
           ],
-          "name": "vanillavariants:crying_obsidian_slab"
+          "name": "vanillablockvariants:crying_obsidian_slab"
         }
       ],
       "rolls": 1.0

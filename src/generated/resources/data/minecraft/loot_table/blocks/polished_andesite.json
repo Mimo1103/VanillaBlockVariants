@@ -10,7 +10,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillavariants:polished_andesite_wall"
+          "name": "vanillablockvariants:polished_andesite_wall"
         }
       ],
       "rolls": 1.0

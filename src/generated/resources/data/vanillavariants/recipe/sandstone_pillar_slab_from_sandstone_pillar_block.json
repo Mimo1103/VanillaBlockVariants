@@ -3,13 +3,13 @@
   "category": "building",
   "group": "sandstone_pillar",
   "key": {
-    "#": "vanillavariants:sandstone_pillar_block"
+    "#": "vanillablockvariants:sandstone_pillar_block"
   },
   "pattern": [
     "###"
   ],
   "result": {
     "count": 6,
-    "id": "vanillavariants:sandstone_pillar_slab"
+    "id": "vanillablockvariants:sandstone_pillar_slab"
   }
 }

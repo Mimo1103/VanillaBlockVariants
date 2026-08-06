@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:red_sandstone",
   "result": {
-    "id": "vanillavariants:cut_red_sandstone_wall"
+    "id": "vanillablockvariants:cut_red_sandstone_wall"
   }
 }

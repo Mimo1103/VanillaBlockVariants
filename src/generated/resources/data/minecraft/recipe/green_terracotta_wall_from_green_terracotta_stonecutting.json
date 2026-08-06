@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:green_terracotta",
   "result": {
-    "id": "vanillavariants:green_terracotta_wall"
+    "id": "vanillablockvariants:green_terracotta_wall"
   }
 }

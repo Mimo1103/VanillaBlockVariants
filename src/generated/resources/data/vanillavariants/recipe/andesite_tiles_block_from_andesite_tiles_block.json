@@ -3,7 +3,7 @@
   "category": "building",
   "group": "andesite_tiles",
   "key": {
-    "A": "vanillavariants:andesite_tiles_block"
+    "A": "vanillablockvariants:andesite_tiles_block"
   },
   "pattern": [
     "AA",
@@ -11,6 +11,6 @@
   ],
   "result": {
     "count": 4,
-    "id": "vanillavariants:andesite_tiles_block"
+    "id": "vanillablockvariants:andesite_tiles_block"
   }
 }

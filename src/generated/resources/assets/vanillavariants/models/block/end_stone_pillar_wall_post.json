@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/template_wall_post",
-  "textures": {
-    "wall": "vanillavariants:block/end_stone_pillar_block_side"
-  }
-}

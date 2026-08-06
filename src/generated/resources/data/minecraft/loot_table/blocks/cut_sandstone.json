@@ -10,7 +10,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillavariants:cut_sandstone_stairs"
+          "name": "vanillablockvariants:cut_sandstone_stairs"
         }
       ],
       "rolls": 1.0

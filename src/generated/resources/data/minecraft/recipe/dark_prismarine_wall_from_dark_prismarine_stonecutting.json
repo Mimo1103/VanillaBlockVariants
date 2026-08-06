@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:dark_prismarine",
   "result": {
-    "id": "vanillavariants:dark_prismarine_wall"
+    "id": "vanillablockvariants:dark_prismarine_wall"
   }
 }

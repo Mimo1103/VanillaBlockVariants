@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:copper_block",
   "result": {
-    "id": "vanillavariants:copper_slab"
+    "id": "vanillablockvariants:copper_slab"
   }
 }

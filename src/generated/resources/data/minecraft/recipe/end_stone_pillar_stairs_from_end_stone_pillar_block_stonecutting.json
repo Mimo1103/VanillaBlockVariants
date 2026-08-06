@@ -1,7 +1,7 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": "vanillavariants:end_stone_pillar_block",
+  "ingredient": "vanillablockvariants:end_stone_pillar_block",
   "result": {
-    "id": "vanillavariants:end_stone_pillar_stairs"
+    "id": "vanillablockvariants:end_stone_pillar_stairs"
   }
 }

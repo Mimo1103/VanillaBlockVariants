@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:prismarine_bricks",
   "result": {
-    "id": "vanillavariants:chiseled_prismarine_block"
+    "id": "vanillablockvariants:chiseled_prismarine_block"
   }
 }

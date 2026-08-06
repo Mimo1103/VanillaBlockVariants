@@ -2,7 +2,7 @@
   "type": "minecraft:smelting",
   "category": "blocks",
   "experience": 0.1,
-  "ingredient": "vanillavariants:clay_wall",
+  "ingredient": "vanillablockvariants:clay_wall",
   "result": {
     "id": "minecraft:brick_wall"
   }

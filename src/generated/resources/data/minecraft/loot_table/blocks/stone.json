@@ -10,7 +10,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillavariants:stone_wall"
+          "name": "vanillablockvariants:stone_wall"
         }
       ],
       "rolls": 1.0

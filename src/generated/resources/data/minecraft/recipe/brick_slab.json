@@ -2,7 +2,7 @@
   "type": "minecraft:smelting",
   "category": "blocks",
   "experience": 0.1,
-  "ingredient": "vanillavariants:clay_slab",
+  "ingredient": "vanillablockvariants:clay_slab",
   "result": {
     "id": "minecraft:brick_slab"
   }

@@ -9,7 +9,7 @@
             {
               "conditions": [
                 {
-                  "block": "vanillavariants:netherrack_slab",
+                  "block": "vanillablockvariants:netherrack_slab",
                   "condition": "minecraft:block_state_property",
                   "properties": {
                     "type": "double"
@@ -23,7 +23,7 @@
               "function": "minecraft:explosion_decay"
             }
           ],
-          "name": "vanillavariants:netherrack_slab"
+          "name": "vanillablockvariants:netherrack_slab"
         }
       ],
       "rolls": 1.0

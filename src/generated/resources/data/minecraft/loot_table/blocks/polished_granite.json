@@ -10,7 +10,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillavariants:polished_granite_wall"
+          "name": "vanillablockvariants:polished_granite_wall"
         }
       ],
       "rolls": 1.0

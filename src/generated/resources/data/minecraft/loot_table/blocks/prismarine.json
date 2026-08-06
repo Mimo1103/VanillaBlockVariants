@@ -10,7 +10,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillavariants:chiseled_prismarine_block"
+          "name": "vanillablockvariants:chiseled_prismarine_block"
         }
       ],
       "rolls": 1.0

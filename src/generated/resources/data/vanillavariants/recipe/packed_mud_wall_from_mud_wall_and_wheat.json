@@ -3,10 +3,10 @@
   "category": "building",
   "group": "packed_mud",
   "ingredients": [
-    "vanillavariants:mud_wall",
+    "vanillablockvariants:mud_wall",
     "minecraft:wheat"
   ],
   "result": {
-    "id": "vanillavariants:packed_mud_wall"
+    "id": "vanillablockvariants:packed_mud_wall"
   }
 }

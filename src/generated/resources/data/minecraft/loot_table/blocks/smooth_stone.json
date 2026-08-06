@@ -10,7 +10,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillavariants:smooth_stone_stairs"
+          "name": "vanillablockvariants:smooth_stone_stairs"
         }
       ],
       "rolls": 1.0

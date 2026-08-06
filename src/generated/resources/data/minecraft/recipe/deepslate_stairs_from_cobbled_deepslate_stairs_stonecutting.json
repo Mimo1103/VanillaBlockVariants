@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:cobbled_deepslate_stairs",
   "result": {
-    "id": "vanillavariants:deepslate_stairs"
+    "id": "vanillablockvariants:deepslate_stairs"
   }
 }

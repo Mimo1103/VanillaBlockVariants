@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:granite",
   "result": {
-    "id": "vanillavariants:polished_granite_wall"
+    "id": "vanillablockvariants:polished_granite_wall"
   }
 }

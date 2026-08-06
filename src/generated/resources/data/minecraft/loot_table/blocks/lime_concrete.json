@@ -9,7 +9,7 @@
             {
               "conditions": [
                 {
-                  "block": "vanillavariants:lime_concrete_slab",
+                  "block": "vanillablockvariants:lime_concrete_slab",
                   "condition": "minecraft:block_state_property",
                   "properties": {
                     "type": "double"
@@ -23,7 +23,7 @@
               "function": "minecraft:explosion_decay"
             }
           ],
-          "name": "vanillavariants:lime_concrete_slab"
+          "name": "vanillablockvariants:lime_concrete_slab"
         }
       ],
       "rolls": 1.0

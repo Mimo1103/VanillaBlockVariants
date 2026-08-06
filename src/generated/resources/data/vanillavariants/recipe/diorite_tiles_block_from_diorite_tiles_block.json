@@ -3,7 +3,7 @@
   "category": "building",
   "group": "diorite_tiles",
   "key": {
-    "A": "vanillavariants:diorite_tiles_block"
+    "A": "vanillablockvariants:diorite_tiles_block"
   },
   "pattern": [
     "AA",
@@ -11,6 +11,6 @@
   ],
   "result": {
     "count": 4,
-    "id": "vanillavariants:diorite_tiles_block"
+    "id": "vanillablockvariants:diorite_tiles_block"
   }
 }

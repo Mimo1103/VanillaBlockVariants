@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": "vanillavariants:andesite_bricks_block"
+            "items": "vanillablockvariants:andesite_bricks_block"
           }
         ]
       },

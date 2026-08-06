@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "category": "blocks",
-  "experience": 0.1,
-  "ingredient": "vanillavariants:gray_terracotta_slab",
-  "result": {
-    "id": "vanillavariants:gray_glazed_terracotta_slab"
-  }
-}

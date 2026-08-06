@@ -9,7 +9,7 @@
             {
               "conditions": [
                 {
-                  "block": "vanillavariants:quartz_pillar_slab",
+                  "block": "vanillablockvariants:quartz_pillar_slab",
                   "condition": "minecraft:block_state_property",
                   "properties": {
                     "type": "double"
@@ -23,7 +23,7 @@
               "function": "minecraft:explosion_decay"
             }
           ],
-          "name": "vanillavariants:quartz_pillar_slab"
+          "name": "vanillablockvariants:quartz_pillar_slab"
         }
       ],
       "rolls": 1.0

@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:polished_diorite",
   "result": {
-    "id": "vanillavariants:diorite_tiles_slab"
+    "id": "vanillablockvariants:diorite_tiles_slab"
   }
 }

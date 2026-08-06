@@ -10,7 +10,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillavariants:smooth_red_sandstone_wall"
+          "name": "vanillablockvariants:smooth_red_sandstone_wall"
         }
       ],
       "rolls": 1.0

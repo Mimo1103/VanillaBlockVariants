@@ -9,7 +9,7 @@
             {
               "conditions": [
                 {
-                  "block": "vanillavariants:orange_glazed_terracotta_slab",
+                  "block": "vanillablockvariants:orange_glazed_terracotta_slab",
                   "condition": "minecraft:block_state_property",
                   "properties": {
                     "type": "double"
@@ -23,7 +23,7 @@
               "function": "minecraft:explosion_decay"
             }
           ],
-          "name": "vanillavariants:orange_glazed_terracotta_slab"
+          "name": "vanillablockvariants:orange_glazed_terracotta_slab"
         }
       ],
       "rolls": 1.0

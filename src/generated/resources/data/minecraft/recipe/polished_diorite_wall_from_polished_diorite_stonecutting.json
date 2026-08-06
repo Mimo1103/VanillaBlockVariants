@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:polished_diorite",
   "result": {
-    "id": "vanillavariants:polished_diorite_wall"
+    "id": "vanillablockvariants:polished_diorite_wall"
   }
 }

@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:lime_terracotta",
   "result": {
-    "id": "vanillavariants:lime_terracotta_wall"
+    "id": "vanillablockvariants:lime_terracotta_wall"
   }
 }

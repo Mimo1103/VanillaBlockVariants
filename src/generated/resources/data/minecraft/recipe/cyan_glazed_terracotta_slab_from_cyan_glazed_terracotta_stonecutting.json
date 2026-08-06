@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:cyan_glazed_terracotta",
   "result": {
-    "id": "vanillavariants:cyan_glazed_terracotta_slab"
+    "id": "vanillablockvariants:cyan_glazed_terracotta_slab"
   }
 }

@@ -1,10 +1,13 @@
 {
   "values": [
-    "vanillavariants:obsidian_wall",
-    "vanillavariants:obsidian_stairs",
-    "vanillavariants:obsidian_slab",
-    "vanillavariants:crying_obsidian_wall",
-    "vanillavariants:crying_obsidian_stairs",
-    "vanillavariants:crying_obsidian_slab"
+    "vanillablockvariants:obsidian_wall",
+    "vanillablockvariants:obsidian_stairs",
+    "vanillablockvariants:obsidian_slab",
+    "vanillablockvariants:crying_obsidian_wall",
+    "vanillablockvariants:crying_obsidian_stairs",
+    "vanillablockvariants:crying_obsidian_slab",
+    "vanillablockvariants:netherite_wall",
+    "vanillablockvariants:netherite_stairs",
+    "vanillablockvariants:netherite_slab"
   ]
 }

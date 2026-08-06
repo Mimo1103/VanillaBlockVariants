@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:purple_wool",
   "result": {
-    "id": "vanillavariants:purple_wool_wall"
+    "id": "vanillablockvariants:purple_wool_wall"
   }
 }

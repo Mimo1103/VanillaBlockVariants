@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:magenta_wool",
   "result": {
-    "id": "vanillavariants:magenta_wool_wall"
+    "id": "vanillablockvariants:magenta_wool_wall"
   }
 }

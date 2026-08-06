@@ -1,28 +1,28 @@
 {
   "values": {
-    "vanillavariants:copper_slab": {
-      "waxed": "vanillavariants:waxed_copper_slab"
+    "vanillablockvariants:copper_slab": {
+      "waxed": "vanillablockvariants:waxed_copper_slab"
     },
-    "vanillavariants:copper_stairs": {
-      "waxed": "vanillavariants:waxed_copper_stairs"
+    "vanillablockvariants:copper_stairs": {
+      "waxed": "vanillablockvariants:waxed_copper_stairs"
     },
-    "vanillavariants:exposed_copper_slab": {
-      "waxed": "vanillavariants:waxed_exposed_copper_slab"
+    "vanillablockvariants:exposed_copper_slab": {
+      "waxed": "vanillablockvariants:waxed_exposed_copper_slab"
     },
-    "vanillavariants:exposed_copper_stairs": {
-      "waxed": "vanillavariants:waxed_exposed_copper_stairs"
+    "vanillablockvariants:exposed_copper_stairs": {
+      "waxed": "vanillablockvariants:waxed_exposed_copper_stairs"
     },
-    "vanillavariants:oxidized_copper_slab": {
-      "waxed": "vanillavariants:oxidized_copper_slab"
+    "vanillablockvariants:oxidized_copper_slab": {
+      "waxed": "vanillablockvariants:oxidized_copper_slab"
     },
-    "vanillavariants:oxidized_copper_stairs": {
-      "waxed": "vanillavariants:oxidized_copper_stairs"
+    "vanillablockvariants:oxidized_copper_stairs": {
+      "waxed": "vanillablockvariants:oxidized_copper_stairs"
     },
-    "vanillavariants:weathered_copper_slab": {
-      "waxed": "vanillavariants:waxed_weathered_copper_slab"
+    "vanillablockvariants:weathered_copper_slab": {
+      "waxed": "vanillablockvariants:waxed_weathered_copper_slab"
     },
-    "vanillavariants:weathered_copper_stairs": {
-      "waxed": "vanillavariants:waxed_weathered_copper_stairs"
+    "vanillablockvariants:weathered_copper_stairs": {
+      "waxed": "vanillablockvariants:waxed_weathered_copper_stairs"
     }
   }
 }

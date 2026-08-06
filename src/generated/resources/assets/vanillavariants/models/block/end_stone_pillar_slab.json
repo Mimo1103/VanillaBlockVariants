@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "vanillavariants:block/end_stone_pillar_block_top",
-    "side": "vanillavariants:block/end_stone_pillar_block_side",
-    "top": "vanillavariants:block/end_stone_pillar_block_top"
-  }
-}

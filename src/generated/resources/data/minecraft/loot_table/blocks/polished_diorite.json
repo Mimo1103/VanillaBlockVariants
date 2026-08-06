@@ -10,7 +10,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillavariants:polished_diorite_wall"
+          "name": "vanillablockvariants:polished_diorite_wall"
         }
       ],
       "rolls": 1.0

@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "bottom": "vanillavariants:block/chiseled_end_stone_block_top",
-    "side": "vanillavariants:block/chiseled_end_stone_block_side",
-    "top": "vanillavariants:block/chiseled_end_stone_block_top"
-  }
-}

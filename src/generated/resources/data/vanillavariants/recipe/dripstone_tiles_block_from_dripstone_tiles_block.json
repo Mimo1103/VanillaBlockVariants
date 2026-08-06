@@ -3,7 +3,7 @@
   "category": "building",
   "group": "dripstone_tiles",
   "key": {
-    "A": "vanillavariants:dripstone_tiles_block"
+    "A": "vanillablockvariants:dripstone_tiles_block"
   },
   "pattern": [
     "AA",
@@ -11,6 +11,6 @@
   ],
   "result": {
     "count": 4,
-    "id": "vanillavariants:dripstone_tiles_block"
+    "id": "vanillablockvariants:dripstone_tiles_block"
   }
 }

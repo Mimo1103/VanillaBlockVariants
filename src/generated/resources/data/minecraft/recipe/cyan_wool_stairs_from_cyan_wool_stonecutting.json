@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:cyan_wool",
   "result": {
-    "id": "vanillavariants:cyan_wool_stairs"
+    "id": "vanillablockvariants:cyan_wool_stairs"
   }
 }

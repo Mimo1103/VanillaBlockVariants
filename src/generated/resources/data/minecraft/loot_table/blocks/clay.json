@@ -9,7 +9,7 @@
             {
               "conditions": [
                 {
-                  "block": "vanillavariants:clay_slab",
+                  "block": "vanillablockvariants:clay_slab",
                   "condition": "minecraft:block_state_property",
                   "properties": {
                     "type": "double"
@@ -23,7 +23,7 @@
               "function": "minecraft:explosion_decay"
             }
           ],
-          "name": "vanillavariants:clay_slab"
+          "name": "vanillablockvariants:clay_slab"
         }
       ],
       "rolls": 1.0

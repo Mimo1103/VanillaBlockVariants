@@ -10,7 +10,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillavariants:prismarine_brick_wall"
+          "name": "vanillablockvariants:prismarine_brick_wall"
         }
       ],
       "rolls": 1.0

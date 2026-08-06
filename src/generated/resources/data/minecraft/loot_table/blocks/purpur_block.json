@@ -10,7 +10,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillavariants:purpur_wall"
+          "name": "vanillablockvariants:purpur_wall"
         }
       ],
       "rolls": 1.0

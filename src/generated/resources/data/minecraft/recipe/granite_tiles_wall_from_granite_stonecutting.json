@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:granite",
   "result": {
-    "id": "vanillavariants:granite_tiles_wall"
+    "id": "vanillablockvariants:granite_tiles_wall"
   }
 }

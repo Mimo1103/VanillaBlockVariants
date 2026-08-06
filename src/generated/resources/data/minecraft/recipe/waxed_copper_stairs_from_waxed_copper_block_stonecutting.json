@@ -2,6 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:waxed_copper_block",
   "result": {
-    "id": "vanillavariants:waxed_copper_stairs"
+    "id": "vanillablockvariants:waxed_copper_stairs"
   }
 }
